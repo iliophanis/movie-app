@@ -2,7 +2,7 @@
 
 # Description
 
-#### You can see demo at : https://iliophanis.github.io/Movie-Web-App/
+#### You can see demo at : https://iliophanis.github.io/movie-app
 #### This is an application using React as the framework and allows the user to search movies they want to watch from the MovieDB API.
 
 # Installation
